@@ -1,0 +1,10 @@
+{
+  "name": "mini-bank",
+  "version": "1.0.0",
+  "private": true,
+  "description": "迷你银行核心业务练习：NestJS + React",
+  "scripts": {
+    "backend": "npm run start:dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend"
+  }
+}
